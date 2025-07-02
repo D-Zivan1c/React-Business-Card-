@@ -1,9 +1,28 @@
-.main {
+/* body {
 background-color: #1A1B21;
 width: 40%;
+display:flex;
 justify-content: center;
-}
+} */
 
 .first-half {
     text-align: center;
+    
+}
+.second-half {
+    
+    
+}
+
+
+.my-face {
+    display: block;
+    margin: auto;
+    width: 25%;
+}
+.card-content {
+    display: block;
+    margin: auto;
+    width:25%;
+    background-color:#1A1B21;
 }
