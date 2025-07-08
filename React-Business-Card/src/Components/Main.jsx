@@ -25,7 +25,7 @@ return (
                     I try to keep up with security and best practices, and am always looking for new things to learn.</p>
 
                     <h3>Interests</h3>
-                    <p>Food expert. Music scholar. Reader. Internet fanatic. Bacon buff. Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic.</p>
+                    <p className='IDesc'>Food expert. Music scholar. Reader. Internet fanatic. Bacon buff. Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic.</p>
                 </section>
             </div>
         </div>

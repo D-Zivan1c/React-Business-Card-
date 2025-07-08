@@ -1,12 +1,16 @@
 import './Style/Socials.css';
+import FaceButt from './Images/Facebook-Icon.png';
+import GitButt from './Images/GitHub-Icon.png';
 
 export default function Footer() {
 
 return (
     <>
         <div className='socials'>
-            <h1>Welcome to the footer Component</h1>
-            <p>This will contain the buttons to my social medias</p>
+            <div className='icons'>
+                <img src={FaceButt} />
+                <img src={GitButt} />
+            </div>  
         </div>
     </>
 )

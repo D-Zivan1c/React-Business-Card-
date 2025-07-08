@@ -9,11 +9,20 @@ justify-content: center;
     text-align: center;
     
 }
+
+.first-half h2 {
+    margin-top: 0%;
+    padding-top: 5%;
+}
 .second-half {
-    
+    padding-left: 5%;
+    padding-right: 5%;
     
 }
 
+.IDesc {
+    padding-bottom: 5%;
+}
 
 .my-face {
     display: block;
